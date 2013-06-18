@@ -1,6 +1,10 @@
 package com.kii.wadl2.dom;
 
+import java.util.List;
+
 public interface RequestType {
     Description getDescription();
-    // TODO:
+    List<Header> getHeaders();
+    String getContentType();
+    ContentBody getContentBody();
 }

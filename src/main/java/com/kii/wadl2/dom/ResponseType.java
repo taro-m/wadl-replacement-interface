@@ -7,5 +7,5 @@ public interface ResponseType {
     int getStatusCode();
     List<Header> getHeaders();
     String getContentType();
-    // TODO:
+    ContentBody getContentBody();
 }

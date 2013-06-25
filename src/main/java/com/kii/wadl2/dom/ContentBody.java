@@ -1,5 +1,5 @@
 package com.kii.wadl2.dom;
 
+// derived to JSONBody and BinaryBody
 public interface ContentBody {
-    // TODO: refer JSON-Schema http://json-schema.org/
 }

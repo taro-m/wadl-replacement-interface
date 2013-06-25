@@ -1,0 +1,3 @@
+[submodule "json-schema-dom"]
+	path = json-schema-dom
+	url = git://github.com/koron/json-schema-dom.git
